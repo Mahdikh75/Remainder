@@ -1,0 +1,18 @@
+E:\Software Developer\Computer\Project\Visual C#\Remainder\Remainder\bin\Release\Remainder.exe.config
+E:\Software Developer\Computer\Project\Visual C#\Remainder\Remainder\bin\Release\Remainder.exe
+E:\Software Developer\Computer\Project\Visual C#\Remainder\Remainder\bin\Release\Remainder.pdb
+E:\Software Developer\Computer\Project\Visual C#\Remainder\Remainder\obj\Release\Remainder.FormMain.resources
+E:\Software Developer\Computer\Project\Visual C#\Remainder\Remainder\obj\Release\Remainder.Properties.Resources.resources
+E:\Software Developer\Computer\Project\Visual C#\Remainder\Remainder\obj\Release\Remainder.csproj.GenerateResource.Cache
+E:\Software Developer\Computer\Project\Visual C#\Remainder\Remainder\obj\Release\Remainder.exe
+E:\Software Developer\Computer\Project\Visual C#\Remainder\Remainder\obj\Release\Remainder.pdb
+E:\Software Developer\Computer\Project\Visual C#\Remainder\Remainder\obj\Release\Remainder.csprojResolveAssemblyReference.cache
+E:\Platforms\Computer\Project\Visual C#\Remainder\Remainder\bin\Release\Remainder.exe.config
+E:\Platforms\Computer\Project\Visual C#\Remainder\Remainder\bin\Release\Remainder.exe
+E:\Platforms\Computer\Project\Visual C#\Remainder\Remainder\bin\Release\Remainder.pdb
+E:\Platforms\Computer\Project\Visual C#\Remainder\Remainder\obj\Release\Remainder.FormMain.resources
+E:\Platforms\Computer\Project\Visual C#\Remainder\Remainder\obj\Release\Remainder.Properties.Resources.resources
+E:\Platforms\Computer\Project\Visual C#\Remainder\Remainder\obj\Release\Remainder.csproj.GenerateResource.cache
+E:\Platforms\Computer\Project\Visual C#\Remainder\Remainder\obj\Release\Remainder.exe
+E:\Platforms\Computer\Project\Visual C#\Remainder\Remainder\obj\Release\Remainder.pdb
+E:\Platforms\Computer\Project\Visual C#\Remainder\Remainder\obj\Release\Remainder.csprojAssemblyReference.cache

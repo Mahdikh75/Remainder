@@ -1,0 +1,9 @@
+E:\Software Developer\Computer\Project\Visual C#\Remainder\Remainder\bin\Debug\Remainder.exe.config
+E:\Software Developer\Computer\Project\Visual C#\Remainder\Remainder\bin\Debug\Remainder.exe
+E:\Software Developer\Computer\Project\Visual C#\Remainder\Remainder\bin\Debug\Remainder.pdb
+E:\Software Developer\Computer\Project\Visual C#\Remainder\Remainder\obj\Debug\Remainder.csprojResolveAssemblyReference.cache
+E:\Software Developer\Computer\Project\Visual C#\Remainder\Remainder\obj\Debug\Remainder.FormMain.resources
+E:\Software Developer\Computer\Project\Visual C#\Remainder\Remainder\obj\Debug\Remainder.Properties.Resources.resources
+E:\Software Developer\Computer\Project\Visual C#\Remainder\Remainder\obj\Debug\Remainder.csproj.GenerateResource.Cache
+E:\Software Developer\Computer\Project\Visual C#\Remainder\Remainder\obj\Debug\Remainder.exe
+E:\Software Developer\Computer\Project\Visual C#\Remainder\Remainder\obj\Debug\Remainder.pdb
